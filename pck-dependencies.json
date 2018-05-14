@@ -1,6 +1,0 @@
-{
-  "packages":{
-    "pandas": "pandas",
-    "numpy": "0.1.2"
-  }
-}
